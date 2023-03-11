@@ -1,2 +1,1 @@
-# WB-Projects
-Practicing with a few projects on Vanilla JS
+flex gallery (CSS, HTML and a teeny JS)
